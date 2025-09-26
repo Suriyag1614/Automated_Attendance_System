@@ -18,7 +18,7 @@ A robust system designed to authenticate individuals and record attendance using
 ## Project Structure
 
 ```plaintext
-Face-Recognition-Attendance-System/
+Automated_Attendance_System/
 ├── database/
 │   ├── attendance-db.sql         # SQL file to set up the database
 │   └── database_connection.php   # Database connection script
@@ -60,7 +60,7 @@ Follow these steps to set up and run the project:
 If you’re using XAMPP, place the project folder inside the `htdocs` directory:
 
 ```plaintext
-xampp/htdocs/Face-Recognition-Attendance-System
+xampp/htdocs/Automated_Attendance_System
 ```
 
 Use a simple folder name, as it will be part of the URL (e.g., attendance-system).
@@ -126,4 +126,5 @@ As a lecturer:
 
 - You can also export the attendance to an **Excel** sheet.
 - Other simple features are available for managing the lecture panel.
+
 
