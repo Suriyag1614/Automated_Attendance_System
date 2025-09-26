@@ -17,7 +17,7 @@ A robust system designed to authenticate individuals and record attendance using
 ````
 ## Project Structure
 
-```plaintext
+```
 Automated_Attendance_System/
 ├── database/
 │   ├── attendance-db.sql         # SQL file to set up the database
@@ -124,3 +124,4 @@ As a lecturer:
 
 - You can also export the attendance to an **Excel** sheet.
 - Other simple features are available for managing the lecture panel.
+
