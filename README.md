@@ -51,7 +51,7 @@ Follow these steps to set up and run the project:
 
 - Clone the repository using Git:
   ```bash
-  git clone https://github.com/suriyag1614/Face-Recognition-Attendance-System.git
+  git clone https://github.com/suriyag1614/Automated_Attendance_System.git
   ```
   -Download zip file
 
@@ -126,5 +126,6 @@ As a lecturer:
 
 - You can also export the attendance to an **Excel** sheet.
 - Other simple features are available for managing the lecture panel.
+
 
 
