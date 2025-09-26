@@ -39,8 +39,6 @@ Automated_Attendance_System/
 ├── index.php                     # Main entry point for all pages
 ├── .htaccess                     # Redirect rules
 └── README.md                     # Project documentation
-
-
 ````
 
 ## **🚀 Setup Procedure**
@@ -126,6 +124,3 @@ As a lecturer:
 
 - You can also export the attendance to an **Excel** sheet.
 - Other simple features are available for managing the lecture panel.
-
-
-
